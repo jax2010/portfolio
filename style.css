@@ -1,0 +1,72 @@
+body {
+    margin: 0px;
+}
+
+
+h1{
+    text-align: center;
+    /*background-color: rgb(90, 91, 124);*/
+    padding: 30px;
+    color: white;
+}
+
+.h3 {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.navbar {
+    height: 50px;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(38, 39, 51);
+    overflow: hidden;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.navbar a:hover {
+    background-color: rgb(17, 18, 26);
+}
+
+.navbar li {
+    float: left;
+}
+
+.aside {
+    color: white;
+    float: left;
+    padding: 20px;
+    width: 20%
+    
+}
+
+.section {
+    color: white;
+    float: left;
+    padding: 20px;
+    width: 40%
+    
+    
+}
+
+.projects-paragraph {
+    font-size: 20px;
+}
+.about-me-paragraph {
+    font-size: 20px;
+}
+
+.bloody {
+    background-color: rgb(27, 24, 53);
+}
