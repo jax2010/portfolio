@@ -8,15 +8,18 @@ h1{
     /*background-color: rgb(90, 91, 124);*/
     padding: 30px;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .h3 {
     padding: 20px;
     font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .navbar {
     height: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .navbar ul{
     list-style-type: none;
@@ -62,11 +65,25 @@ h1{
 
 .projects-paragraph {
     font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .about-me-paragraph {
     font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .bloody {
     background-color: rgb(27, 24, 53);
+}
+.home-page-image {
+    padding: 50px;
+}
+
+.pengywithmilk {
+    width: 50px;
+    height: 50px;
+}
+
+.aboutmeimage {
+    padding: 50px;
 }
