@@ -17,6 +17,15 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.h5{
+    text-align: center;
+    /*background-color: rgb(90, 91, 124);*/
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .navbar {
     height: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -108,4 +117,9 @@ h1{
     width: 40%
     
     
+}
+
+.books-paragraph {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
